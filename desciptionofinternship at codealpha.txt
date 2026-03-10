@@ -1,0 +1,71 @@
+Project Title: CodeAlpha Flutter Internship Projects
+
+Intern Name: Afeefa Arooj
+Domain: Flutter App Development
+Organization: CodeAlpha
+
+Project Description:
+
+This repository contains multiple Flutter applications developed during the CodeAlpha Flutter Internship. The projects are built using Flutter and Dart programming language and demonstrate basic to intermediate mobile application development concepts.
+
+The purpose of these projects is to understand Flutter UI development, state management, and basic app functionalities.
+
+-----------------------------------------
+
+Task 1: Random Quote Generator App
+
+Description:
+The Random Quote Generator App displays motivational quotes randomly when the user presses a button. The app has a simple and clean user interface and helps users read inspiring quotes.
+
+Features:
+- Generate random motivational quotes
+- Simple Flutter UI
+- Button interaction
+
+Technologies Used:
+Flutter, Dart
+
+-----------------------------------------
+
+Task 2: Flashcard Learning App
+
+Description:
+The Flashcard Learning App helps users learn information using flashcards. Users can tap on a card to reveal the answer. This app demonstrates interactive UI and basic Flutter widgets.
+
+Features:
+- Flashcard interface
+- Tap to reveal answer
+- Simple learning tool
+
+Technologies Used:
+Flutter, Dart
+
+-----------------------------------------
+
+Task 3: Enhanced To-Do List App
+
+Description:
+The Enhanced To-Do List App allows users to manage daily tasks. Users can add tasks, mark them as completed, and delete tasks. This project demonstrates task management functionality using Flutter.
+
+Features:
+- Add tasks
+- Mark tasks as completed
+- Delete tasks
+- Clean user interface
+
+Technologies Used:
+Flutter, Dart
+
+-----------------------------------------
+
+Conclusion:
+
+These projects were developed as part of the CodeAlpha Flutter Internship to demonstrate practical knowledge of Flutter app development and GitHub project management.
+
+-----------------------------------------
+
+GitHub Profile:
+https://github.com/abdullahaslam123hj-web
+
+LinkedIn Profile:
+https://www.linkedin.com/in/afeefa-arooj-68ba4a343
